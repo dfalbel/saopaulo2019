@@ -18,8 +18,7 @@ header {
 }
 
 header {
-  /*  background-image: url(../img/header-bg.jpg);*/
-    background-color: #2165B6;
+    background-image: url(../img/header-bg.jpg);
 }
 
 .intro-text .btn-xl {
